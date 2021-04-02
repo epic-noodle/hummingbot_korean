@@ -1,2 +1,2 @@
-# hummingbot_russian
-hummingbot repo in Russian
+# hummingbot_korean
+hummingbot repo in Korean
